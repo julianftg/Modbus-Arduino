@@ -1,0 +1,7 @@
+Para utilizar las librerias de arduino hay que hace lo siguente:
+
+1. Ir al directorio Sketchbook creado automáticamente por Arduino donde guardará los Sketch por defecto.
+
+2. Crear una carpeta llamada "libraries" dentro del ese directorio.
+
+3. Introducir dentro de la carpeta "libraries" las librerias de modbus de Arduino.
